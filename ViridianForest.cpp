@@ -3,7 +3,7 @@ Author: Austin Henry
 Date: 8/14/2018
 Assignment: Final Project
 
-This is the implementation file for the ViridianForest. It is the child of Shape
+This is the implementation file for the ViridianForest. It is the child of Space
 */
 
 #include "ViridianForest.hpp"
