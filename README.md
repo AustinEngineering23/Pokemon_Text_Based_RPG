@@ -3,12 +3,13 @@ A text based recreation of the popular Pokemon Red Version. Done in C++
 
 The pokemonMain.cpp file contains the core functionality of the game, this is where the trainer object will move through the space object. 
 It has the following functions:
-  Introduce the player to the game, prompt for a name
-  Starts up the game, creates the player, pokemon, and space objects
-  Allows the player to move through spaces, which can trigger events
-  Allows access to a menu where the player can select different actions
-  Hosts the battle system
-  Accounts for win/loss conditions and also sets up the game timer
+
+Introduce the player to the game, prompt for a name
+Starts up the game, creates the player, pokemon, and space objects
+Allows the player to move through spaces, which can trigger events
+Allows access to a menu where the player can select different actions
+Hosts the battle system
+Accounts for win/loss conditions and also sets up the game timer
 
 The objects and their functions are as follows:
 
