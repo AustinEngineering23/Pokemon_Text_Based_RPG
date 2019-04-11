@@ -3,7 +3,7 @@ Author: Austin Henry
 Date: 8/14/2018
 Assignment: Final Project
 
-This is the implementation file for the Route. It is the child of Shape.
+This is the implementation file for the Route. It is the child of Space.
 
 On a route space you may battle wild pokemon. You also have a 1/3 chance of getting a rare candy when moving north or South from a route
 */
